@@ -1,5 +1,6 @@
 # FormationGitHub_ENSA_Marrakech
-Training Session on Git/GitHub Presented By Said Bouigherdaine
+Training Session on Git/GitHub Presented By Said Bouigherdaine on 20 Feb 2016 - Version 1
+Training Session on Git/GitHub Presented By Imad Hsissou on 19 Nov 2016 - Version 2
 
 Club Scientifique (Sci-ENSA Marrakech) 2016
 
