@@ -1,4 +1,4 @@
-# FormationGitHub_ENSA_Marrakech
+# Formation Git/GitHub ENSA Marrakech
 Training Session on Git/GitHub Presented By Said Bouigherdaine on 20 Feb 2016 - Version 1</br>
 Training Session on Git/GitHub Presented By Imad Hsissou on 19 Nov 2016 - Version 2
 
